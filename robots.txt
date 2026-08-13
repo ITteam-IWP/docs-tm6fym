@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-3tx287.i-pacdashboard.in/sitemap.xml
